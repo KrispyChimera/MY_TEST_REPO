@@ -1,0 +1,14 @@
+{
+	"remote-grant-service": {
+		"object_owner": {
+			"roles": [
+				"TEST_1::external_access_g"
+			]
+		},
+		"application_user": {
+			"roles": [
+				"TEST_1::external_access_g"
+			]
+		}
+	}
+}

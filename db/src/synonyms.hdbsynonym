@@ -1,0 +1,8 @@
+{
+    "TEST_1::TABLE_1": {
+      "target": {
+        "object": "TABLE_1",
+        "schema": "TEST_1"
+      }
+    }
+}    
